@@ -197,3 +197,5 @@ GitHub: [kiganyamburu/Weather-Forecasting-Model](https://github.com/kiganyamburu
 ---
 
 **Note**: This is a data analysis and forecasting project. Always refer to official weather services for real-time weather forecasts and warnings.
+**Note**: This is a data analysis and forecasting project. Always refer to official weather services for real-time weather forecasts and warnings.
+
